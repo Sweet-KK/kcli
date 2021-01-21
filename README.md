@@ -1,7 +1,6 @@
 # kcli
 
-[![NPM Download](https://badgen.net/npm/dm/@kk306484328/kcli)](https://www.npmjs.com/package/@kk306484328/kcli)
-[![NPM Version](https://badge.fury.io/js/@kk306484328/kcli.svg)](https://www.npmjs.com/package/@kk306484328/kcli)
+[![NPM Version](https://badge.fury.io/js/%40kk306484328%2Fkcli.svg)](https://www.npmjs.com/package/@kk306484328/kcli)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Sweet-KK/kcli/pulls)
 
 
