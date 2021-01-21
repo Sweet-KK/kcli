@@ -1,6 +1,6 @@
 {
   "name": "@kk306484328/kcli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "下载git仓库作为项目起始模板，可保存模板地址",
   "author": "https://github.com/Sweet-KK",
   "scripts": {
