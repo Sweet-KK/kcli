@@ -1,8 +1,8 @@
 # kcli
 
-[![NPM Download](https://badgen.net/npm/dm/k-cli)](https://www.npmjs.com/package/k-cli)
-[![NPM Version](https://badge.fury.io/js/k-cli.svg)](https://www.npmjs.com/package/k-cli)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Sweet-KK/k-cli/pulls)
+[![NPM Download](https://badgen.net/npm/dm/@kk306484328/kcli)](https://www.npmjs.com/package/@kk306484328/kcli)
+[![NPM Version](https://badge.fury.io/js/@kk306484328/kcli.svg)](https://www.npmjs.com/package/@kk306484328/kcli)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Sweet-KK/kcli/pulls)
 
 
 ## 目录
