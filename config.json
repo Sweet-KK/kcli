@@ -1,0 +1,14 @@
+[
+  {
+    "name": "test",
+    "value": "https://github.com/Sweet-KK/dom-screenshot.git"
+  },
+  {
+    "name": "vue-admin-template",
+    "value": "https://github.com/PanJiaChen/vue-admin-template.git"
+  },
+  {
+    "name": "vue-antd-admin",
+    "value": "https://github.com/iczer/vue-antd-admin.git"
+  }
+]

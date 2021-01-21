@@ -1,0 +1,49 @@
+{
+  "name": "kcli",
+  "version": "1.0.0",
+  "description": "下载git仓库作为项目起始模板，可保存模板地址",
+  "author": "https://github.com/Sweet-KK",
+  "scripts": {
+    "lint": "eslint utils/**/*.js bin/**/*.js"
+  },
+  "bin": {
+    "kcli": "bin/kcli.js",
+    "kcli-init": "bin/kcli-init.js"
+  },
+  "files": [
+    "utils",
+    "bin"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.1",
+    "eslint": "^7.16.0",
+    "fs-extra": "^9.0.1",
+    "inquirer": "^7.3.3",
+    "log-symbols": "^4.0.0",
+    "mime": "^2.5.0",
+    "ora": "^5.2.0"
+  },
+  "devDependencies": {},
+  "engines": {},
+  "keywords": [
+    "脚手架",
+    "cli",
+    "下载git仓库",
+    "下载模板",
+    "构建工具",
+    "创建项目"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sweet-KK/kcli.git"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "utils/**/*.js": "eslint --fix",
+    "bin/**/*.js": "eslint --fix"
+  }
+}
