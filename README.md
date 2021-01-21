@@ -23,9 +23,6 @@
 ```
 npm install kcli -g
 ```
-or
-```
-yarn add kcli -g
 ```
 
 [⬆ Back to Top](#目录)
