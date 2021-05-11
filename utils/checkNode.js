@@ -8,7 +8,7 @@ module.exports = () => {
       reject(new Error('You are running Node ' +
         currentNodeVersion +
         '.\n' +
-        'kcli requires Node 10 or higher. \n' +
+        'kcli requires Node 11 or higher. \n' +
         'Please update your version of Node.'))
     }
     resolve()

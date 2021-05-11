@@ -21,7 +21,7 @@
 ## 安装
 
 ```
-npm install kcli -g
+npm install @kk306484328/kcli -g
 ```
 
 
